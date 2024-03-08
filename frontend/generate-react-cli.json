@@ -2,6 +2,7 @@
   "usesTypeScript": true,
   "usesStyledComponents": true,
   "testLibrary": "None",
+  "cssPreprocessor": "scss",
   "component": {
     "default": {
       "path": "src/components",

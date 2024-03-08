@@ -1,13 +1,12 @@
-import React from "react";
-import logo from "./logo.svg";
-import Home from "./components/home/home";
+import "./App.css";
+
+import Routers from "./routers/router";
 
 function App() {
   return (
-    <div className="App">
-      test
-      <Home />
-    </div>
+    <>
+      <Routers />
+    </>
   );
 }
 
